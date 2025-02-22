@@ -1,0 +1,4 @@
+
+DROP TABLE IF EXISTS Sales;
+DROP TABLE IF EXISTS Products;
+
