@@ -1,6 +1,6 @@
 #!/bin/bash
 
-main_file="databases/main.db"
+ main_file="databases/main.db"
 
 if [ -f $main_file ]; then 
 
